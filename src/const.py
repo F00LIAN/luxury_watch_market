@@ -1,0 +1,1 @@
+CATEGORIES = ["Rolex", "Richard Mille", "Seiko", "Omega", "Patek Philippe", "Panerai", "Breitling", "Audemars Piguet"]

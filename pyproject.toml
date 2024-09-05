@@ -1,0 +1,27 @@
+[tool.poetry]
+name = "watches"
+version = "0.1.0"
+description = ""
+authors = ["Julian Sotelo <juliansotelo@mail.fresnostate.edu>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+beautifulsoup4 = "^4.12.3"
+chrono24 = "^0.2.13"
+ipykernel = "^6.29.5"
+psycopg2 = "^2.9.9"
+python-dotenv = "^1.0.1"
+streamlit = "^1.38.0"
+pandas = "^2.2.2"
+sqlalchemy = "^2.0.32"
+plotly = "^5.24.0"
+scikit-learn = "^1.5.1"
+matplotlib = "^3.9.2"
+seaborn = "^0.13.2"
+tqdm = "^4.66.5"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
