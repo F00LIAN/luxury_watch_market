@@ -169,5 +169,5 @@ def run_update():
     updater.update_watch_prices()
 
 # If running as a script
-#if __name__ == "__main__":
-#    run_update()
+if __name__ == "__main__":
+    run_update()
